@@ -17,7 +17,7 @@
 
 ## 🛠 Tech Stack
 
-### Frontend & Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,php,py,django,flask,spring,nodejs" />
