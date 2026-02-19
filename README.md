@@ -57,8 +57,6 @@
 
 <div align="center">
 
-### 📊 GitHub Activity
-
 
 
 </div>
