@@ -32,7 +32,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,figma," />
 </p>
 
 ---
